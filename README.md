@@ -1,4 +1,4 @@
-# Colorize-images
+# HueRevive
 Black and white image colorization with OpenCV and Deep Learning.
 	Choose a Model: There are various pre-trained models available that can perform image colorization. One popular choice is DeOldify, which is based on Generative Adversarial Networks (GANs) and has shown impressive results in colorizing black and white photos.
 	Data Preparation: Depending on the model you choose, you might need to prepare your black and white images for input. This could involve resizing images, converting them to the appropriate format, and organizing them in a way that the model can process efficiently.
